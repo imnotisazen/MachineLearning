@@ -16,7 +16,7 @@ st.set_page_config(
 
 # Título y descripción
 st.title("🔍 Clasificador de Imágenes con IA")
-st.markdown("### Desarrollado por: **Tu Nombre**")
+st.markdown("### Desarrollado por: **Yolanda Godoy**")
 st.markdown("---")
 
 # Cargar el modelo y las clases

@@ -1,0 +1,11 @@
+requirements = '''
+streamlit==1.28.0
+tensorflow==2.13.0
+numpy==1.24.3
+Pillow==10.0.0
+'''
+
+with open('requirements.txt', 'w') as f:
+    f.write(requirements)
+
+files.download('requirements.txt')

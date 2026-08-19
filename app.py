@@ -178,5 +178,3 @@ st.markdown("""
     <p>© 2024 - Todos los derechos reservados</p>
 </div>
 """, unsafe_allow_html=True)
-# Descargar app.py
-files.download('app.py')

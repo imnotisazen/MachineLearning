@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 st.title(" Clasificador de Imágenes con IA")
-st.markdown("### Desarrollado por: **Yolanda Martínez**")
+st.markdown("### Desarrollado por: **Yolanda Godoy**")
 st.markdown("---")
 
 @st.cache_resource
